@@ -1,4 +1,4 @@
-# PI_HDT_07
+# PROYECTO INDIVIDUAL Henry
 # Descripción del proyecto
 Este proyecto tiene como objetivo crear un sistema de recomendación de películas para usuarios, utilizando un modelo de machine learning. Se trabajará con datos de una start-up que provee servicios de agregación de plataformas de streaming.
 
@@ -34,4 +34,4 @@ Cantidad de películas por plataforma con filtro de PLATAFORMA. (La función deb
 Actor que más se repite según plataforma y año. (La función debe llamarse get_actor(platform, year))
 # Deployment
 Para el deployment se usara Dete 🔗https://deta.space/discovery/r/qnvinatcy7myvbri
-![center-image](aaa "center-image")
+![center-image](aaa "center-image.png")
