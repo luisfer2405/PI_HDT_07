@@ -44,4 +44,4 @@ Una vez que la data es consumible por la API y se ha realizado un buen EDA, se p
 
 Video
 
-Se debe crear un video que muestre todo lo que se hizo durante el proyecto, desde las transformaciones
+Se debe crear un video que muestre todo lo que se hizo durante el proyecto, desde las transformaciones (https://drive.google.com/file/d/1II9-Z8C4IXRN2AVL2p5mPg7ULNbHUMhP/view?usp=share_link)
