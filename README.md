@@ -33,8 +33,8 @@ Cantidad de películas por plataforma con un puntaje mayor a XX en determinado a
 Cantidad de películas por plataforma con filtro de PLATAFORMA. (La función debe llamarse get_count_platform(platform))
 Actor que más se repite según plataforma y año. (La función debe llamarse get_actor(platform, year))
 # Deployment
-Para el deployment se usara Dete 🔗https://deta.space/discovery/r/xfkhxcse57u6k3fy
-
+Para el deployment se usara Dete:  https://deta.space/discovery/r/xfkhxcse57u6k3fy
+y para el modelo de recomendas: https://huggingface.co/spaces/lukmor2405/PI_HDT_07
 
 #Análisis exploratorio de los datos
 Una vez que los datos han sido limpiados y transformados, se ha llevado a cabo un análisis exploratorio de los mismos para investigar las relaciones que hay entre las variables de los datasets, ver si hay outliers o anomalías y detectar algún patrón interesante. Para ello, se han utilizado librerías como pandas profiling, sweetviz, autoviz, entre otras.
